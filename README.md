@@ -69,9 +69,21 @@ Usage
 
 FAQ
 ----
+* How do I write my own plugins ?
+  * Download the teamspeak 3 Plugin SDK and build upon our demonstration plugin. 
+
+* How do I make myself a server admin ? 
+  * After installing you will be shown a Server Admin Token ID eiter on screen    or you can also find it from your logs in the log directory. 
+  * Launch the TS3 client and connect to your server as a normal user. Now , go to Permissions > Use Token and paste the Token ID into the box. You should see a "SA" icon next to your name.
+
+* How does the ban system work ?
+  * Clients can be panned by any combination of IP, username and unique identifier.
+* How do I enable the advanced permissions system ?
+  * To enable the advanced permissions system go to Settings > Options from TeamSpeak, then look at the application on the left and check the box next to "Advanced permissions system" in the Misc section.
 
 Support
 -------
+* For support go to the [Community Forum](https://forum.teamspeak.com) page.
 
 License
 -------
