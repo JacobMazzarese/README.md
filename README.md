@@ -87,4 +87,4 @@ Support
 
 License
 -------
-The project is licensed under the MIT license.
+The project is licensed under the [MIT](https://github.com/JacobMazzarese/README.md/blob/main/LICENSE) license.
