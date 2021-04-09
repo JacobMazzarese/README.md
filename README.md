@@ -7,6 +7,15 @@ teamspeak is an application that allows users to communicate in a cross-platform
 Utilizing military-grade security and a lag-free performance teamspeak guarantees an optimal quality
 experience. 
 
+Table of Contents
+------------------
+* [System Requirements](systemrequirements)
+* [Installation](installation)
+* [Usage](usage)
+* [FAQ](faq)
+* [Support](support)
+* [License](license)
+
 System Requirements
 -------------
 * Windows 
