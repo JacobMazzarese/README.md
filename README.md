@@ -112,6 +112,8 @@ Usage
 
 2. Type the server nickname/address and password. Click Connect.
 
+![image](https://user-images.githubusercontent.com/76662555/114244022-b274ba00-995b-11eb-93a8-de5f9bf220d8.png)
+
 ![image](https://user-images.githubusercontent.com/76662555/114242217-8572d800-9958-11eb-8ecb-2ad86d715d90.png)
 
 
