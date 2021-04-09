@@ -33,40 +33,42 @@ System Requirements
 
 Installation
 ------------
-1. Navigate to teamspeak homepage 
+1. Navigate to teamspeak [homepage](https://www.teamspeak.com/en/).
+   Click the Free Download link.  
 
-2. Click the Free Download link
+2. Download teamspeak based on your operating system.
 
-3. Download teamspeak based on your operating system
+3. Open the TeamSpeak3-Client application, this will 
+   run the TeamSpeak3 Client Setup application.
 
-4. Open the TeamSpeak3-Client application, this will 
-   run the TeamSpeak3 Client Setup application
-
-5. Click next and read through TeamSpeak Inc., Privacy
+4. Click next and read through TeamSpeak Inc., Privacy
    statement and Terms & Conditions. Click the "I accept 
-   the terms of the License Agreement" and click next
+   the terms of the License Agreement" and click next.
    
-6. Choose if you want to install TeamSpeak 3 Client for 
-   yourself or all users
+5. Choose if you want to install TeamSpeak 3 Client for 
+   yourself or all users.
 
-7. Determine where you want TeamSpeak 3 Client to be 
-   installed
+6. Determine where you want TeamSpeak 3 Client to be 
+   installed.
    
-8. Click the install button.
+7. Click the install button.
 
-9. Click the Finish button.
+8. Click the Finish button.
 
-10. Read through License aggreement and click "I accept"
+9. Read through License aggreement and click "I accept".
 
-11. If you wish to create an account or log into an existing
+10. If you wish to create an account or log into an existing
     one input your information in the correct boxes. Otherwise
     click the "Continue without loggin in" button.
 
 
 Usage
 -----
-* 
-
+1. To connect to a server open your Team Speak 3 application. Click 
+   Connections > Connect at the top of the page.
+2. Type the server nickname/address and password. Click Connect.
+3. To join a seperate channel scroll down to find your channel and double
+   click. 
 FAQ
 ----
 * How do I write my own plugins ?
@@ -80,6 +82,7 @@ FAQ
   * Clients can be panned by any combination of IP, username and unique identifier.
 * How do I enable the advanced permissions system ?
   * To enable the advanced permissions system go to Settings > Options from TeamSpeak, then look at the application on the left and check the box next to "Advanced permissions system" in the Misc section.
+* For further questions go to FAQ [page](https://support.teamspeak.com/hc/en-us).
 
 Support
 -------
