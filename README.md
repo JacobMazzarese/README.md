@@ -46,16 +46,16 @@ Installation
 1. Navigate to teamspeak [homepage](https://www.teamspeak.com/en/).
    Click the Free Download link.  
 
-![image](https://user-images.githubusercontent.com/76662555/114241044-8a368c80-9956-11eb-87d7-dba9422a2528.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241044-8a368c80-9956-11eb-87d7-dba9422a2528.png)
 
 2. Download teamspeak based on your operating system.
 
-![image](https://user-images.githubusercontent.com/76662555/114241497-38423680-9957-11eb-8fa6-aeae912b14d1.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241497-38423680-9957-11eb-8fa6-aeae912b14d1.png)
 
 3. Open the TeamSpeak3-Client application, this will 
    run the TeamSpeak3 Client Setup application.
    
-![image](https://user-images.githubusercontent.com/76662555/114243746-22cf0b80-995b-11eb-9f59-9846606e57d4.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114243746-22cf0b80-995b-11eb-9f59-9846606e57d4.png)
 
 
 
@@ -71,7 +71,7 @@ Installation
    yourself or all users.
 
 
-![image](https://user-images.githubusercontent.com/76662555/114241780-c1596d80-9957-11eb-933e-3d907143d2bc.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241780-c1596d80-9957-11eb-933e-3d907143d2bc.png)
 
 
 6. Determine where you want TeamSpeak 3 Client to be 
@@ -81,16 +81,16 @@ Installation
 
 7. Click the install button.
 
-![image](https://user-images.githubusercontent.com/76662555/114241882-ee0d8500-9957-11eb-8221-2a3d607f0c20.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241882-ee0d8500-9957-11eb-8221-2a3d607f0c20.png)
 
 8. Click the Finish button.
 
-![image](https://user-images.githubusercontent.com/76662555/114241846-df26d280-9957-11eb-9bd7-69b5be1c8791.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241846-df26d280-9957-11eb-9bd7-69b5be1c8791.png)
 
 
 9. Read through License aggreement and click "I accept".
 
-![image](https://user-images.githubusercontent.com/76662555/114241953-0da4ad80-9958-11eb-8061-3ab8f703d00c.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114241953-0da4ad80-9958-11eb-8061-3ab8f703d00c.png)
 
 
 10. If you wish to create an account or log into an existing
@@ -113,15 +113,15 @@ Usage
 
 2. Type the server nickname/address and password. Click Connect.
 
-![image](https://user-images.githubusercontent.com/76662555/114244022-b274ba00-995b-11eb-93a8-de5f9bf220d8.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114244022-b274ba00-995b-11eb-93a8-de5f9bf220d8.png)
 
-![image](https://user-images.githubusercontent.com/76662555/114242217-8572d800-9958-11eb-8ecb-2ad86d715d90.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114242217-8572d800-9958-11eb-8ecb-2ad86d715d90.png)
 
 
 4. To join a seperate channel scroll down to find your channel and double
    click, each message bubble icon below represents a seperate channel. 
    
-![image](https://user-images.githubusercontent.com/76662555/114245617-ce2d8f80-995e-11eb-9b3b-818963761dee.png)
+   ![image](https://user-images.githubusercontent.com/76662555/114245617-ce2d8f80-995e-11eb-9b3b-818963761dee.png)
 
 FAQ
 ----
