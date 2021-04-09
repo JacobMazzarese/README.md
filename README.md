@@ -3,7 +3,7 @@
 
 Introduction
 ------------
-teamspeak is an application that allows users to communicate in a cross-platform environment.
+TeamSpeak is an application that allows users to communicate in a cross-platform environment.
 Utilizing military-grade security and a lag-free performance teamspeak guarantees an optimal quality
 experience. 
 
@@ -43,12 +43,12 @@ System Requirements
 
 Installation
 ------------
-1. Navigate to teamspeak [homepage](https://www.teamspeak.com/en/).
+1. Navigate to TeamSpeak [homepage](https://www.teamspeak.com/en/).
    Click the Free Download link.  
 
    ![image](https://user-images.githubusercontent.com/76662555/114241044-8a368c80-9956-11eb-87d7-dba9422a2528.png)
 
-2. Download teamspeak based on your operating system.
+2. Download TeamSpeak based on your operating system.
 
    ![image](https://user-images.githubusercontent.com/76662555/114241497-38423680-9957-11eb-8fa6-aeae912b14d1.png)
 
