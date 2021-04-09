@@ -36,39 +36,80 @@ Installation
 1. Navigate to teamspeak [homepage](https://www.teamspeak.com/en/).
    Click the Free Download link.  
 
+![image](https://user-images.githubusercontent.com/76662555/114241044-8a368c80-9956-11eb-87d7-dba9422a2528.png)
+
 2. Download teamspeak based on your operating system.
+
+![image](https://user-images.githubusercontent.com/76662555/114241497-38423680-9957-11eb-8fa6-aeae912b14d1.png)
 
 3. Open the TeamSpeak3-Client application, this will 
    run the TeamSpeak3 Client Setup application.
+   
+   ![image](https://user-images.githubusercontent.com/76662555/114241671-89522a80-9957-11eb-9eef-33f8a4e5bb7c.png)
+
 
 4. Click next and read through TeamSpeak Inc., Privacy
    statement and Terms & Conditions. Click the "I accept 
    the terms of the License Agreement" and click next.
    
+   ![image](https://user-images.githubusercontent.com/76662555/114241762-b7d00580-9957-11eb-81e6-df75c2eeb455.png)
+
+   
+   
 5. Choose if you want to install TeamSpeak 3 Client for 
    yourself or all users.
+
+
+![image](https://user-images.githubusercontent.com/76662555/114241780-c1596d80-9957-11eb-933e-3d907143d2bc.png)
+
 
 6. Determine where you want TeamSpeak 3 Client to be 
    installed.
    
+   ![image](https://user-images.githubusercontent.com/76662555/114241900-f665c000-9957-11eb-91dc-63cc523e992a.png)
+
 7. Click the install button.
+
+![image](https://user-images.githubusercontent.com/76662555/114241882-ee0d8500-9957-11eb-8221-2a3d607f0c20.png)
 
 8. Click the Finish button.
 
+![image](https://user-images.githubusercontent.com/76662555/114241846-df26d280-9957-11eb-9bd7-69b5be1c8791.png)
+
+
 9. Read through License aggreement and click "I accept".
+
+![image](https://user-images.githubusercontent.com/76662555/114241953-0da4ad80-9958-11eb-8061-3ab8f703d00c.png)
+
 
 10. If you wish to create an account or log into an existing
     one input your information in the correct boxes. Otherwise
     click the "Continue without loggin in" button.
+    
+    ![image](https://user-images.githubusercontent.com/76662555/114242040-3331b700-9958-11eb-972f-b49227609f9c.png)
+
+    
+    
 
 
 Usage
 -----
 1. To connect to a server open your Team Speak 3 application. Click 
    Connections > Connect at the top of the page.
+   
+   ![image](https://user-images.githubusercontent.com/76662555/114242125-62482880-9958-11eb-957d-bfe37bfccd63.png)
+
+
 2. Type the server nickname/address and password. Click Connect.
-3. To join a seperate channel scroll down to find your channel and double
+
+![image](https://user-images.githubusercontent.com/76662555/114242217-8572d800-9958-11eb-8ecb-2ad86d715d90.png)
+
+
+4. To join a seperate channel scroll down to find your channel and double
    click. 
+   
+   ![image](https://user-images.githubusercontent.com/76662555/114242079-493f7780-9958-11eb-9760-0ea7ce30edfc.png)
+
 FAQ
 ----
 * How do I write my own plugins ?
