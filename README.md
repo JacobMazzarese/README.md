@@ -9,12 +9,12 @@ experience.
 
 Table of Contents
 ------------------
-* [System Requirements](systemrequirements)
-* [Installation](installation)
-* [Usage](usage)
-* [FAQ](faq)
-* [Support](support)
-* [License](license)
+* [System Requirements](#system-requirements)
+* [Installation](#installation)
+* [Usage](#usage)
+* [FAQ](#faq)
+* [Support](#support)
+* [License](#license)
 
 System Requirements
 -------------
