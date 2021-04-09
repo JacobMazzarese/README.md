@@ -118,9 +118,9 @@ Usage
 
 
 4. To join a seperate channel scroll down to find your channel and double
-   click. 
+   click, each message bubble icon below represents a seperate channel. 
    
-   ![image](https://user-images.githubusercontent.com/76662555/114242079-493f7780-9958-11eb-9760-0ea7ce30edfc.png)
+![image](https://user-images.githubusercontent.com/76662555/114245617-ce2d8f80-995e-11eb-9b3b-818963761dee.png)
 
 FAQ
 ----
