@@ -135,7 +135,7 @@ FAQ
   * Clients can be panned by any combination of IP, username and unique identifier.
 * How do I enable the advanced permissions system ?
   * To enable the advanced permissions system go to Settings > Options from TeamSpeak, then look at the application on the left and check the box next to "Advanced permissions system" in the Misc section.
-* For further questions go to FAQ [page](https://support.teamspeak.com/hc/en-us).
+* For further questions go to the FAQ [page](https://support.teamspeak.com/hc/en-us).
 
 Support
 -------
