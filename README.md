@@ -54,7 +54,8 @@ Installation
 3. Open the TeamSpeak3-Client application, this will 
    run the TeamSpeak3 Client Setup application.
    
-   ![image](https://user-images.githubusercontent.com/76662555/114241671-89522a80-9957-11eb-9eef-33f8a4e5bb7c.png)
+![image](https://user-images.githubusercontent.com/76662555/114243746-22cf0b80-995b-11eb-9f59-9846606e57d4.png)
+
 
 
 4. Click next and read through TeamSpeak Inc., Privacy
